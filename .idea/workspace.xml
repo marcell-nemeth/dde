@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7c2838f-7eef-45ce-a3f8-36c9b6906cf6" name="Changes" comment="Initial commit to upload all files">
+    <list default="true" id="f7c2838f-7eef-45ce-a3f8-36c9b6906cf6" name="Changes" comment="Moving outputs to separate folder">
+      <change beforePath="$PROJECT_DIR$/.idea/dde.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dde.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/drift_score_corelation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/drift_score_correlation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/drift_score_correlation_cicids.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/drift_score_correlation_cicids.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/drift_score_correlation_elec.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/drift_score_correlation_elec.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,19 +25,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Dokumentumok/BME/PhD/codes/dde/requirements.txt",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Dokumentumok/BME/PhD/codes/dde/requirements.txt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dokumentumok\BME\PhD\codes\dde\notebooks\outputs\archive" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +52,11 @@
       <option name="presentableId" value="Default" />
       <updated>1678017454745</updated>
       <workItem from="1678017456869" duration="619000" />
-      <workItem from="1678018089570" duration="1625000" />
+      <workItem from="1678018089570" duration="2927000" />
+      <workItem from="1678021639781" duration="164000" />
+      <workItem from="1678021818052" duration="3342000" />
+      <workItem from="1678106083037" duration="132000" />
+      <workItem from="1678128687197" duration="1610000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit to upload all files">
       <created>1678018466120</created>
@@ -53,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678018466120</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updating requirements.txt">
+      <created>1678019887742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678019887742</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Moving outputs to separate folder">
+      <created>1678019976743</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678019976743</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +98,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit to upload all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit to upload all files" />
+    <MESSAGE value="Updating requirements.txt" />
+    <MESSAGE value="Moving outputs to separate folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moving outputs to separate folder" />
   </component>
 </project>
