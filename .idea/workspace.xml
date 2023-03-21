@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7c2838f-7eef-45ce-a3f8-36c9b6906cf6" name="Changes" comment="Moving outputs to separate folder">
-      <change beforePath="$PROJECT_DIR$/.idea/dde.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dde.iml" afterDir="false" />
+    <list default="true" id="f7c2838f-7eef-45ce-a3f8-36c9b6906cf6" name="Changes" comment="Updating outpt generation for all NBs">
+      <change afterPath="$PROJECT_DIR$/notebooks/drift_score_correlation_heartbeats.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/drift_score_correlation_insect.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/drift_score_corelation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/drift_score_correlation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/drift_score_correlation_cicids.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/drift_score_correlation_cicids.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/drift_score_correlation_elec.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/drift_score_correlation_elec.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Dokumentumok/BME/PhD/codes/dde/requirements.txt&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Dokumentumok/BME/PhD/codes/dde/notebooks&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
@@ -39,6 +39,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dokumentumok\BME\PhD\codes\dde\notebooks" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Dokumentumok\BME\PhD\codes\dde\notebooks\outputs\archive" />
     </key>
@@ -57,6 +60,11 @@
       <workItem from="1678021818052" duration="3342000" />
       <workItem from="1678106083037" duration="132000" />
       <workItem from="1678128687197" duration="1610000" />
+      <workItem from="1678175873561" duration="53000" />
+      <workItem from="1678350479918" duration="249000" />
+      <workItem from="1678737550768" duration="3491000" />
+      <workItem from="1679344937389" duration="3015000" />
+      <workItem from="1679428879338" duration="5948000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit to upload all files">
       <created>1678018466120</created>
@@ -79,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678019976743</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updating outpt generation for all NBs">
+      <created>1678175903806</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678175903806</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +115,7 @@
     <MESSAGE value="Initial commit to upload all files" />
     <MESSAGE value="Updating requirements.txt" />
     <MESSAGE value="Moving outputs to separate folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moving outputs to separate folder" />
+    <MESSAGE value="Updating outpt generation for all NBs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating outpt generation for all NBs" />
   </component>
 </project>
