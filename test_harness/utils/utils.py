@@ -177,3 +177,4 @@ def calculate_split_window_distances(experiment, distance_func):
         splits.append((i, distance))
 
     return pd.DataFrame(splits, columns=["Split", "Distance"])
+
