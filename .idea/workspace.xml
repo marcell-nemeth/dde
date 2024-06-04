@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7c2838f-7eef-45ce-a3f8-36c9b6906cf6" name="Changes" comment="Add insects output">
+    <list default="true" id="f7c2838f-7eef-45ce-a3f8-36c9b6906cf6" name="Changes" comment="Create fake drift datasets">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/AUC_example.png" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/AUC_example.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/AUC_example.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/drift_score_correlation_insect.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/drift_score_correlation_insect.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/outputs/insects/CD_delta_vs_ro_chp_tabs.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/outputs/insects/CD_delta_vs_ro_chp_tabs.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_harness/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_harness/utils/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/drift_score_correlation_insect_fakedrift.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/drift_score_correlation_insect_fakedrift.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/outputs/insects/CD_delta_vs_ro_chp_tabs.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/outputs/insects/CD_delta_vs_ro_chp_tabs_insects_drift1.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,19 +26,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Dokumentumok/BME/PhD/codes/dde/notebooks&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Dokumentumok/BME/PhD/codes/dde/notebooks/outputs/insects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Dokumentumok\BME\PhD\codes\dde\notebooks" />
@@ -69,6 +70,24 @@
       <workItem from="1679472406864" duration="349000" />
       <workItem from="1679516235097" duration="4244000" />
       <workItem from="1679595479987" duration="1590000" />
+      <workItem from="1679748656983" duration="389000" />
+      <workItem from="1679848421178" duration="14224000" />
+      <workItem from="1679938356733" duration="10041000" />
+      <workItem from="1679989832755" duration="335000" />
+      <workItem from="1679990315026" duration="1623000" />
+      <workItem from="1680033496413" duration="4950000" />
+      <workItem from="1680111146762" duration="9152000" />
+      <workItem from="1680208830846" duration="819000" />
+      <workItem from="1680359405920" duration="72000" />
+      <workItem from="1680359569921" duration="9514000" />
+      <workItem from="1680454717338" duration="4681000" />
+      <workItem from="1680508815992" duration="344000" />
+      <workItem from="1680613975894" duration="615000" />
+      <workItem from="1680620557912" duration="28000" />
+      <workItem from="1681330572377" duration="2660000" />
+      <workItem from="1681372296833" duration="1663000" />
+      <workItem from="1681402794328" duration="3530000" />
+      <workItem from="1681549862819" duration="4246000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit to upload all files">
       <created>1678018466120</created>
@@ -112,7 +131,49 @@
       <option name="project" value="LOCAL" />
       <updated>1679439552301</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add insects updates">
+      <created>1679748717891</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679748717891</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add insects updates">
+      <created>1679992462259</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679992462259</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add dde and pred prob auc calculations">
+      <created>1680038879134</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680038879134</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add dde and pred prob auc calculations to heartbeats">
+      <created>1680126486640</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680126486640</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Adding ADWIN evaluations">
+      <created>1680508875354</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680508875354</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Create fake drift datasets">
+      <created>1681373962441</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1681373962441</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +197,11 @@
     <MESSAGE value="Updating outpt generation for all NBs" />
     <MESSAGE value="Add heartbeats and insects analysis" />
     <MESSAGE value="Add insects output" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add insects output" />
+    <MESSAGE value="Add insects updates" />
+    <MESSAGE value="Add dde and pred prob auc calculations" />
+    <MESSAGE value="Add dde and pred prob auc calculations to heartbeats" />
+    <MESSAGE value="Adding ADWIN evaluations" />
+    <MESSAGE value="Create fake drift datasets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create fake drift datasets" />
   </component>
 </project>
